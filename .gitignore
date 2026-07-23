@@ -18,3 +18,13 @@ __pycache__/
 # VS Code
 # ==========================
 .vscode/
+
+!*/
+!*.py
+!*.ipynb
+!.*csv
+!*.xlsx
+!*.parquet
+!*.png
+!*.jpg
+!*.jpeg
